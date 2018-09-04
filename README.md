@@ -30,6 +30,8 @@ Application of the CRPS metric and evaluation of the Gaussian distribution and t
 ## 05-simplified_model_validation-sigma_non-variant_in_time.ipynb
 Application and analysis of the simplified model, i.e., $\sigma$ constant in time. Evaluation of the results using CRPS.
 
-##
+## 06a-Autoencoder.ipynb
+Autoencoder application.
 
-##
+## 06b-GADO.ipynb
+Generative Adversarial Model first implementation
